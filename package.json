@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "deploy": "ng build --configuration=production --base-href 'https://Lawnotes.github.io/sample-notes/' && npx angular-cli-ghpages --dir=dist/law-notes"
   },
   "private": true,
   "dependencies": {

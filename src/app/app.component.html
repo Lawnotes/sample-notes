@@ -1,17 +1,21 @@
 <div class="container">
-  <h2>Your Notes</h2>
+  <h2 class="font-monospace mt-1 fw-bold">Your Notes</h2>
   <hr>
-  <h6>Sample notes</h6>
-  <input 
-    type="text" 
-    class="form-control mb-4" 
-    placeholder="Search by subject..." 
-    [(ngModel)]="searchQuery" 
-  />
+  <h5 class="font-monospace">Sample notes.-</h5>
+
+  <div class="input-container">
+    <input
+      class="input"
+      name="text"
+      type="text"
+      placeholder="Search by subject..."
+      [(ngModel)]="searchQuery"
+    />
+  </div>
   
-  <div class="row mt-5 align-center">
+  <div class="row  align-center">
     <div 
-      class="col-md-4" 
+      class="col-md-5 col-lg-4" 
       *ngFor="let card of cardData | filter: searchQuery : 'title'">
       <app-card 
         [title]="card.title" 

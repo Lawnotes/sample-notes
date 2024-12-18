@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'law-notes';
+  title = 'Your Notes';
   cardData: any[] = [];
   searchQuery: string = ''; // Store the search query
 
