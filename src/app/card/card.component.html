@@ -1,0 +1,23 @@
+<!-- <div class="card" style="width: 12rem">
+  <img src="../../assets/sample1.jpg" class="card-img-top" alt="Image" />
+  <div class="card-body">
+    <h6 class="card-title">{{ title }}</h6>
+    <p class="card-text">{{ description }}</p>
+    <a href="{{ pdfUrl }}" target="_blank" class="btn btn-primary">Open PDF</a>
+  </div>
+</div> -->
+
+<div class="container mt-5">
+  <div class="d-flex flex-wrap justify-content-center">
+    <div class="card border-0 mx-2 mb-4" style="width: 18rem;">
+      <img [src]="'https://i.postimg.cc/T3tcpyDd/f381a3c2-3f1c-45ec-b41d-4dd6ea39631e.jpg'" alt="Image" class="card-img-top" />
+      <div class="card-body text-left">
+        <div class="category">{{ title }}</div>
+        <h5 class="card-title">{{ description }}</h5>
+        <a href="{{ pdfUrl }}" target="_blank" class="btn">Open PDF</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+

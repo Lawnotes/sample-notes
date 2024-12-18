@@ -1,0 +1,25 @@
+<div class="container">
+  <h2>Your Notes</h2>
+  <hr>
+  <h6>Sample notes</h6>
+  <input 
+    type="text" 
+    class="form-control mb-4" 
+    placeholder="Search by subject..." 
+    [(ngModel)]="searchQuery" 
+  />
+  
+  <div class="row mt-5 align-center">
+    <div 
+      class="col-md-4" 
+      *ngFor="let card of cardData | filter: searchQuery : 'title'">
+      <app-card 
+        [title]="card.title" 
+        [description]="card.description" 
+        [pdfUrl]="card.pdfUrl">
+      </app-card>
+    </div>
+  </div>
+</div>
+<app-footer />
+<router-outlet></router-outlet>

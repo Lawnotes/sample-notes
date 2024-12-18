@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Card Title 1",
+      "description": "This is a description for card 1.",
+      "pdfUrl": "assets/pdfs/sample.pdf"
+    },
+    {
+      "title": "Card Title 2",
+      "description": "This is a description for card 2.",
+      "pdfUrl": "https://drive.google.com/file/d/1IES2HukkLOCZg1MoG9OemjUilA0tEEVJ/view?usp=sharing"
+    },
+    {
+      "title": "Card Title 3",
+      "description": "This is a description for card 3.",
+      "pdfUrl": "assets/pdfs/sample3.pdf"
+    },
+    {
+      "title": "Card Title 4",
+      "description": "This is a description for card 4.",
+      "pdfUrl": "assets/pdfs/sample3.pdf"
+    }
+  ]
+  
