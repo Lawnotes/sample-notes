@@ -1,23 +1,138 @@
 [
-    {
-      "title": "Card Title 1",
-      "description": "This is a description for card 1.",
-      "pdfUrl": "assets/pdfs/sample.pdf"
-    },
-    {
-      "title": "Card Title 2",
-      "description": "This is a description for card 2.",
-      "pdfUrl": "https://drive.google.com/file/d/1IES2HukkLOCZg1MoG9OemjUilA0tEEVJ/view?usp=sharing"
-    },
-    {
-      "title": "Card Title 3",
-      "description": "This is a description for card 3.",
-      "pdfUrl": "assets/pdfs/sample3.pdf"
-    },
-    {
-      "title": "Card Title 4",
-      "description": "This is a description for card 4.",
-      "pdfUrl": "assets/pdfs/sample3.pdf"
-    }
-  ]
-  
+  {
+    "title": "Bhartiya Nyaya Sanhita (BNS)",
+    "pdfUrl": "https://drive.google.com/file/d/1aQZwfhtFddelCXTECTzLQA_C1TIkFY8t/view?usp=drive_link"
+  },
+  {
+    "title": "Bhartiya Nagarik Suraksha Sanhita (BNSS)",
+    "pdfUrl": "https://drive.google.com/file/d/1HF4b0Ww3eu4k9VXj7B4eUiXsICEGxybf/view?usp=drive_link"
+  },
+  {
+    "title": "Bhartiya Sakshya Adhiniyam (BSA)",
+    "pdfUrl": "https://drive.google.com/file/d/18iTAxl7hhuoFtschQIQcoEzoMfIvejN-/view?usp=drive_link"
+  },
+  {
+    "title": "Indian Penal Code (IPC)",
+    "pdfUrl": "https://drive.google.com/file/d/1-4f_BsxgKEPZDgwf-9rE0NJ-g19MjwAf/view?usp=drive_link"
+  },
+  {
+    "title": "Code of Criminal Procedure (CRPC)",
+    "pdfUrl": "https://drive.google.com/file/d/16qc5rdlRBTPy0Hy853rF0txyGyxb7zbn/view?usp=sharing"
+  },
+  {
+    "title": "Indian Evidence Act (IEA)",
+    "pdfUrl": "https://drive.google.com/file/d/1PFbM3S1_RGFjcinwjV2QeaOdvbb3Mfo6/view?usp=drive_link"
+  },
+  {
+    "title": "Constitutional law",
+    "pdfUrl": "https://drive.google.com/file/d/1yLRiXl9zJOJl_oNSaq01A_VaSdHdzuxJ/view?usp=drive_link"
+  },
+  {
+    "title": "Transfer of Property Act",
+    "pdfUrl": "https://drive.google.com/file/d/1Oasyp1f-_qQ8SzT7DG8vyhnu8K_zP9Vh/view?usp=drive_link"
+  },
+  {
+    "title": "Contract Act",
+    "pdfUrl": "https://drive.google.com/file/d/1_G68wyUUbT-wDTlHqcCgyr8iSkWUryXh/view?usp=drive_link"
+  },
+  {
+    "title": "Tort",
+    "pdfUrl": "https://drive.google.com/file/d/1bS3f7r9GjXtI5GhCXghX0IfXFhVSaFSN/view?usp=drive_link"
+  },
+  {
+    "title": "Hindu Law",
+    "pdfUrl": "https://drive.google.com/file/d/1PY3T8x98TKpRgZJr_HeN8Gw5VS5vB0xb/view?usp=drive_link"
+  },
+  {
+    "title": "Muslim Law",
+    "pdfUrl": "https://drive.google.com/file/d/1nObqayATPoQSiDWU4zgS2sXzzegyFHvJ/view?usp=drive_link"
+  },
+  {
+    "title": "Company Law",
+    "pdfUrl": "https://drive.google.com/file/d/1O-b_Yjl7laL8LYudkYnPXMV0WJE8jPgD/view?usp=drive_link"
+  },
+  {
+    "title": "Sale of Goods Act (SOGA)",
+    "pdfUrl": "https://drive.google.com/file/d/1VtJ6bifmCkcJFm7e85wnT92VQYs1NFST/view?usp=drive_link"
+  },
+  {
+    "title": "Partnership Act",
+    "pdfUrl": "https://drive.google.com/file/d/1W1FdZwsVGr5wahWA_K1q-Ts1eu9MLAGt/view?usp=drive_link"
+  },
+  {
+    "title": "Jurisprudence",
+    "pdfUrl": "https://drive.google.com/file/d/19P20t6YYZZJi9I5j3d-sDLIFkuOutUWr/view?usp=drive_link"
+  },
+  {
+    "title": "Environment law",
+    "pdfUrl": "https://drive.google.com/file/d/1CZqYhj1-ra_ZDrGSJEyxIzesxiHF0k9E/view?usp=drive_link"
+  },
+  {
+    "title": "Specific Relief Act (SRA)",
+    "pdfUrl": "https://drive.google.com/file/d/1vzrhm6k89zkpF03xTUQlVR_oLcDIZ-cq/view?usp=drive_link"
+  },
+  {
+    "title": "Limitation Act",
+    "pdfUrl": "https://drive.google.com/file/d/1ScofboKdwR6tuMSBxU6phtU6TuNP4JE6/view?usp=drive_link"
+  },
+  {
+    "title": "Code of Civil Procedure (CPC)",
+    "pdfUrl": "https://drive.google.com/file/d/1VwDQ-jUtIMfx_J5_IBXKWGieC-6TRhED/view?usp=drive_link"
+  },
+  {
+    "title": "Sociology",
+    "pdfUrl": "https://drive.google.com/file/d/1v0XQyndMjfPZt0Ai1zZgSO6Bdg4ZCOqd/view?usp=drive_link"
+  },
+  {
+    "title": "Taxation Law",
+    "pdfUrl": "https://drive.google.com/file/d/1IVYilmZckngixv5rSfKMdA-mjGKiOJj4/view?usp=drive_link"
+  },
+  {
+    "title": "Interpretation of Statutes (IOS)",
+    "pdfUrl": "https://drive.google.com/file/d/1k9nXDIEpsfc7T_aCf7348uzjXt9rNoWk/view?usp=drive_link"
+  },
+  {
+    "title": "Intellectual Property Rights (IPR)",
+    "pdfUrl": "https://drive.google.com/file/d/1oK7nw_2NIE8GafwQD6Zx09pMGDWCYjB1/view?usp=drive_link"
+  },
+  {
+    "title": "Criminology",
+    "pdfUrl": "https://drive.google.com/file/d/1C4g5CmcdDVQdukT9l5I3aKnQEeSRPXYx/view?usp=drive_link"
+  },
+  {
+    "title": "Drafting, Pleading and Conveyancing",
+    "pdfUrl": "https://drive.google.com/file/d/1yilHZwuSRzDat-0vkHbaJASftBhNy0M1/view?usp=drive_link"
+  },
+  {
+    "title": "Labour law I",
+    "pdfUrl": "https://drive.google.com/file/d/198d1nBPZ34dKu8TBxu8lsbRta2V-z9QH/view?usp=drive_link"
+  },
+  {
+    "title": "Labour law II",
+    "pdfUrl": "https://drive.google.com/file/d/1FSeYroaWRSfiyQpmj8exAl-FPaVIjVdp/view?usp=drive_link"
+  },
+  {
+    "title": "Banking Law",
+    "pdfUrl": "https://drive.google.com/file/d/1rUgjPg6LH4yasW9xYoHZ64O04i33cnS-/view?usp=drive_link"
+  },
+  {
+    "title": "Domestic Violence Act (DV)",
+    "pdfUrl": "https://drive.google.com/file/d/1mevnwcnvd7bCd4ml0ZWd6E8NQ9CGS_Bq/view?usp=drive_link"
+  },
+  {
+    "title": "Probation of Offenders Act",
+    "pdfUrl": "https://drive.google.com/file/d/1CykPqLwVHMYStJihOJxs8J61CbW_sZ9O/view?usp=drive_link"
+  },
+  {
+    "title": "Rajasthan Rent Control Act",
+    "pdfUrl": "https://drive.google.com/file/d/1HNHkkbT1ann1xjbxfxXtFEEKaWqYXvzE/view?usp=drive_link"
+  },
+  {
+    "title": "Indecent Representation of Women's Act",
+    "pdfUrl": "https://drive.google.com/file/d/12jmoYtX_eMial1_roF930JCjJzpIKwhp/view?usp=drive_link"
+  },
+  {
+    "title": "Public International Law",
+    "pdfUrl": "https://drive.google.com/file/d/1azOh0IJO-xPWbweLipczE6NHIzQhC9Mx/view?usp=drive_link"
+  }
+]
